@@ -5,10 +5,10 @@
 
 ### Contact information:
 
-**E-mail:** khrypchenko.vlad@gmail.com
-**Telegram:** [@khrypchenko](https://t.me/khrypchenko/)
-**GitHub:** https://github.com/deLefuet
-[**LinkedIn**](https://www.linkedin.com/in/khrypchenko/)
+**E-mail:** [khrypchenko.vlad@gmail.com](mailto:khrypchenko.vlad@gmail.com)<br>
+**Telegram:** [@khrypchenko](https://t.me/khrypchenko/)<br>
+**GitHub:** [https://github.com/deLefuet](https://github.com/deLefuet)<br>
+[**LinkedIn**](https://www.linkedin.com/in/khrypchenko/)<br>
 
 ---
 
@@ -34,14 +34,15 @@ I like programming, solving interesting problems and drinking a lot of coffee. I
 
 **Simple multiplication kata from Codewars:**
 *This kata is about multiplying a given number by eight if it is an even number and by nine otherwise.*
+
 ```javascript
 function simpleMultiplication(num){
-    if (num % 2 === 0) {
-        num = num * 8;
-    } else {
-        num = num * 9;
-    }
-    return num;
+    if (num % 2 === 0) {
+        num = num * 8;
+    } else {
+        num = num * 9;
+    }
+    return num;
 }
 ```
 
@@ -49,23 +50,23 @@ function simpleMultiplication(num){
 
 ### Education:
 
-- **Vinnytsia National Technical University**
-  - ***Faculty of Information Technology and Computer Engineering***
-    - *Software Engineering, Bachelor's Degree*
+- **Vinnytsia National Technical University**<br>
+  - ***Faculty of Information Technology and Computer Engineering***<br>
+    - *Software Engineering, Bachelor's Degree*<br>
 
 ---
 
 ### Courses:
 
 - **The Modern JavaScript Tutorial on [javascript.info](https://uk.javascript.info/)**
-    - *In Progress*
+  - *In Progress*
 
 - **The Rolling Scopes Schools Course «JavaScript/Front-end. Stage 0»**
-    - *In Progress*
+  - *In Progress*
 
 ---
 
 ### Languages:
 
-- English - Intermediate (B1)
-- Ukrainian - Native
+- **English** - Intermediate (B1)
+- **Ukrainian** - Native
